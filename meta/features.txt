@@ -1,0 +1,5 @@
+app window- drag around, resize, has navbar
+navbar- title, closebutton shrink/expandbutton, minbutton rightclick=openWINcontextmenu
+app icon- place in any app_tile_grid, 2xclick=openappwindow, rightclick=openAPPcontextmenu 
+app_tile_grid, fills exactly the full page, on drag has rainbow trail rightclick=openTILEcontextmenu
+

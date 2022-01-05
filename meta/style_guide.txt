@@ -1,0 +1,4 @@
+use classes and web componants 
+folders to keep things neat
+have some colord console spam
+have a color palet stored, so like main, accent and so on
